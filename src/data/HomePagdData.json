@@ -1,0 +1,250 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-banner.png",
+    "name": "Mohammad Sami",
+    "heading": "Hay! I’m Sami",
+    "typingText": ["I'm a MERN-Stack Developer", 1500, "From Bangladesh", 1500],
+    "description": "As a MERN-stack developer, I specialize in building full-stack applications using MongoDB, Express.js, React, and Node.js. My expertise includes creating dynamic, responsive web applications, developing efficient backend architectures, and ensuring seamless integration between the frontend and backend for optimal performance.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "https://www.facebook.com/samichowdhury69"
+    },
+    { 
+    "icon": "fa-brands:instagram", 
+    "iconBgClass": "instagram", 
+    "href": "https://www.instagram.com/chowdhury_sami_" 
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/mohammad-sami-chowdhury"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.png",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>MERN-Stack</span> PROJECTS",
+    "description": "A MERN-stack developer is a full-stack web developer proficient in MongoDB, Express.js, React, and Node.js. They specialize in building dynamic, scalable, and high-performance web applications.",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 150
+      },
+      {
+        "title": "Years Experience",
+        "number": 2
+      },
+      {
+        "title": "Awward Winning",
+        "number": 23
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/popup-project-1.jpg",
+        "title": "Portfolio Website",
+        "subTitle": "Web Design, Web Development",
+        "details": {
+          "title": "Portfolio Website for a Digital Markter",
+          "description": "A digital marketer portfolio website showcases the skills, expertise, and achievements of a digital marketing professional. It typically includes case studies, examples of successful campaigns, SEO and social media strategies, content marketing samples, and data-driven insights.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS",
+          "platform": "HTML",
+          "country": "Bangladesh",
+          "url": "siamevan.vercel.app"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-2.jpg",
+        "title": "Digital Agency Website",
+        "subTitle": "Web Design & Development",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "A digital marketing agency website is a platform that showcases the agency's expertise in online marketing services. It highlights solutions such as SEO, social media management, pay-per-click advertising, content creation, and web design. The site typically includes case studies, client testimonials, and detailed service offerings, emphasizing the agency’s ability to help businesses grow their online presence, drive traffic, and boost conversions through tailored digital strategies.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS",
+          "platform": "HTML",
+          "country": "USA",
+          "url": "mohammad-sami-chowdhury.github.io/digital-marketing"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-3.jpg",
+        "title": "Full-Stack Dashboard",
+        "subTitle": "Web Development",
+        "details": {
+          "title": "A Real Time Full-Stack Dashboard",
+          "description": "A full-stack dashboard website is a web application that provides users with a centralized interface to monitor, manage, and analyze data in real time. It integrates both front-end and back-end technologies to display key metrics, reports, and insights in an intuitive and visually appealing manner. These dashboards often feature dynamic data visualizations, user authentication, and API integrations, allowing users to interact with various data sources and customize their views. Built for efficiency and scalability, full-stack dashboards offer seamless user experiences across multiple devices and platforms.",
+          "type": "Website, App",
+          "langages": "React, Tailwind CSS",
+          "platform": "MERN",
+          "country": "Australia",
+          "url": "Not Available"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-4.jpg",
+        "title": "Web  Development Agency",
+        "subTitle": "App Design",
+        "details": {
+          "title": "Website Design for Web Development Agency Startup",
+          "description": "Our web development agency specializes in creating custom, high-performance websites tailored to meet your business needs. With expertise in modern technologies, including the MERN stack, we build responsive, user-friendly, and scalable websites that drive engagement and growth. From sleek front-end designs to robust back-end solutions, our team ensures seamless functionality, optimized performance, and superior user experiences. Whether you're launching a new website or enhancing an existing one, we deliver solutions that help your business succeed online.",
+          "type": "Website",
+          "langages": "HTML, CSS",
+          "platform": "HTML",
+          "country": "Bangladesh",
+          "url": "mohammad-sami-chowdhury.github.io/Project-One"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-5.jpg",
+        "title": "E-commerce Website Development",
+        "subTitle": "Web Development",
+        "details": {
+          "title": "A Website for a E-commerce Platform",
+          "description": "An e-commerce website is an online platform that allows businesses to sell products or services directly to consumers over the internet. It features a user-friendly interface for browsing items, secure payment gateways, shopping carts, and customer account management. E-commerce sites often include product catalogs, search functionality, and customer reviews, providing a seamless and convenient shopping experience. They enable businesses to reach a global audience and operate 24/7, streamlining sales and transactions.",
+          "type": "Website",
+          "langages": "React, Bootstrap",
+          "platform": "MERN",
+          "country": "France",
+          "url": "Not Available"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-6.jpg",
+        "title": "Web Development",
+        "subTitle": "Gaming Website",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "A gaming website is a dynamic online platform dedicated to video game enthusiasts, offering a range of content such as game reviews, news, guides, and community forums. It serves as a hub for gamers to discover new releases, connect with fellow players, and access gameplay tips. Often featuring engaging multimedia, leaderboards, and interactive elements, gaming websites cater to a wide audience, from casual players to hardcore gamers, enhancing their overall gaming experience.",
+          "type": "Website",
+          "langages": "HTML, CSS, JS",
+          "platform": "HTML",
+          "country": "Bangladesh",
+          "url": "Not Available"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-01.jpg",
+        "title": "Front-end Development",
+        "subTitle": "Our front-end development service focuses on creating responsive, user-friendly, and visually appealing web interfaces.",
+        "icon": "bi:code-slash",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-02.jpg",
+        "title": "Back-end Development",
+        "subTitle": "Back-end development service focuses on building the server-side logic, databases, and APIs that power web and mobile applications.",
+        "icon": "bi:braces-asterisk",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "Full-Stack Development",
+        "subTitle": "Our full-stack development service offers end-to-end solutions, covering both front-end and back-end development.",
+        "icon": "bi:regex",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "MERN-Stack Development",
+        "subTitle": "Our MERN-stack development service offers end-to-end solutions for building dynamic, high-performance web applications.",
+        "icon": "bi:filetype-jsx",
+        "ratings": 5
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Mohammad Sami Chowdhury is an exceptional web developer with a keen eye for detail and a deep understanding of both front-end and back-end technologies. Their ability to translate complex requirements into functional, visually appealing websites is impressive. From design to deployment, Sami ensures a smooth user experience, focusing on responsive design, clean code, and seamless functionality.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Siam Rashid Evan",
+        "avatarCompany": "Digital Marketer"
+      },
+      {
+        "reviewText": "Mohammad Sami Chowdhury is an exceptional web developer with a keen eye for detail and a deep understanding of modern web technologies. Their expertise spans across front-end and back-end development, ensuring a seamless user experience and efficient functionality. Throughout the project, Sami demonstrated excellent communication skills, was highly responsive to feedback, and delivered high-quality work on time. Their ability to solve complex problems and implement innovative solutions sets them apart. I highly recommend Sami for any web development project—whether it's building a website from scratch or improving an existing one.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Shohel Rana Baig",
+        "avatarCompany": "Creative IT Institute"
+      },
+      {
+        "reviewText": "Mohammad Sami Chowdhury is an exceptional web developer with a strong grasp of both front-end and back-end technologies. Their expertise in HTML, CSS, JavaScript, and frameworks like React and Node.js is evident in the seamless, responsive websites they create. Throughout the project, they demonstrated excellent problem-solving skills and attention to detail, ensuring a smooth user experience and clean, efficient code. Communication was always clear, and deadlines were consistently met. I highly recommend Sami for anyone looking to build a professional, high-quality web application.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Tajul Islam",
+        "avatarCompany": "Misco LTD."
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact-us.png",
+    "contactMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4331.206397284596!2d90.36168387589753!3d23.771065587981663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c183c216a177%3A0x2704dfaa8be52aa3!2sDewan%20bari!5e1!3m2!1sen!2sbd!4v1726465931992!5m2!1sen!2sbd",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "contact@mohammadsami.xyz" },
+      { "title": "Phone", "tel": "+880 1886 245 755" }
+    ]
+  }
+}
